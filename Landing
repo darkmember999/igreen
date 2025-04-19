@@ -1,0 +1,170 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Seja um Licenciado iGreen Energy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #e8f5e9;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #1f8b4c;
+      font-size: 32px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #1f8b4c;
+      font-size: 24px;
+      margin-top: 30px;
+    }
+    p, li {
+      line-height: 1.7;
+      font-size: 16px;
+    }
+    ul {
+      margin-top: 10px;
+      padding-left: 20px;
+    }
+    form {
+      margin-top: 30px;
+    }
+    label {
+      display: block;
+      margin-bottom: 6px;
+      font-weight: bold;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: #1f8b4c;
+      color: white;
+      padding: 14px 24px;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #166a38;
+    }
+    .whatsapp-link {
+      display: block;
+      margin-top: 20px;
+      font-weight: bold;
+      color: #1f8b4c;
+      text-decoration: none;
+    }
+    .video-container, .testimonial {
+      margin-top: 30px;
+    }
+    iframe {
+      width: 100%;
+      height: 350px;
+      border: none;
+      border-radius: 10px;
+    }
+    blockquote {
+      background: #f1f8f4;
+      border-left: 5px solid #1f8b4c;
+      padding: 15px 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      font-style: italic;
+    }
+    .testimonial cite {
+      display: block;
+      margin-top: 10px;
+      font-style: normal;
+      color: #555;
+    }
+    .pdf-download {
+      margin-top: 30px;
+      text-align: center;
+    }
+    .pdf-download a {
+      background: #1f8b4c;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .pdf-download a:hover {
+      background: #166a38;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Seja um Licenciado iGreen Energy</h1>
+    <p>Empreenda com propósito, tecnologia e sustentabilidade! Torne-se um representante autorizado da iGreen e comece a vender soluções em energia solar, internet fibra e muito mais, com suporte completo e comissões recorrentes.</p><h2>Vantagens de ser um licenciado:</h2>
+<ul>
+  <li>Marca consolidada e reconhecida no mercado sustentável</li>
+  <li>Treinamentos completos e suporte constante</li>
+  <li>Comissões atrativas e recorrentes</li>
+  <li>Acesso a plataforma exclusiva de gestão de clientes e vendas</li>
+  <li>Materiais de marketing profissionais prontos para uso</li>
+  <li>Zero necessidade de conhecimento técnico – nós cuidamos da operação</li>
+  <li>Baixo investimento inicial</li>
+</ul>
+
+<div class="video-container">
+  <h2>Assista e conheça mais sobre a iGreen</h2>
+  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+</div>
+
+<div class="testimonial">
+  <h2>Depoimentos de Licenciados</h2>
+  <blockquote>
+    "Ser licenciado iGreen me deu liberdade financeira e propósito. É incrível ver como os clientes valorizam o que entregamos."
+    <cite>– João Carlos, Licenciado em São Paulo</cite>
+  </blockquote>
+  <blockquote>
+    "Eu não tinha experiência em vendas e mesmo assim consegui ótimos resultados. O suporte faz toda a diferença!"
+    <cite>– Ana Beatriz, Licenciada em Goiás</cite>
+  </blockquote>
+</div>
+
+<div class="pdf-download">
+  <h2>Quer saber todos os detalhes?</h2>
+  <a href="https://example.com/apresentacao-licenciado-igreen.pdf" target="_blank">Baixar apresentação completa em PDF</a>
+</div>
+
+<h2>Cadastro de Interesse</h2>
+<form action="https://formsubmit.co/seudominio@email.com" method="POST">
+  <label for="nome">Nome completo:</label>
+  <input type="text" id="nome" name="nome" required />
+
+  <label for="cidade">Cidade e Estado:</label>
+  <input type="text" id="cidade" name="cidade" required />
+
+  <label for="whatsapp">WhatsApp com DDD:</label>
+  <input type="tel" id="whatsapp" name="whatsapp" required />
+
+  <button type="submit">Quero ser um Licenciado</button>
+</form>
+
+<a class="whatsapp-link" href="https://wa.me/5519995673304?text=Quero%20ser%20um%20licenciado%20iGreen%20na%20minha%20cidade">
+  Ou clique aqui e fale direto pelo WhatsApp
+</a>
+
+  </div>
+</body>
+</html>
